@@ -2,11 +2,10 @@
 // Created by ereic on 4/21/2024.
 //
 
-#include <iostream>
-using namespace std;
+#include "Movies.h"
 
 int main(){
-    cout << "hello" << endl;
+    test();
 
     return 0;
 }

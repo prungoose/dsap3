@@ -4,4 +4,5 @@ project(dsap3)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(dsap3
-        main.cpp)
+        main.cpp
+        Movies.h)
